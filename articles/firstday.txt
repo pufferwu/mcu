@@ -1,0 +1,13 @@
+这个是我以前存着的一篇文章啦
+http://www.yangzhiping.com/tech/github.html
+
+
+第一天我们就学几个最简单的git命令好了.
+
+1.git clone
+这个你懂的,首先要做的是把我们的仓库克隆到你本地的电脑上.
+git clone https://github.com/pufferwu/mcu  
+万一要是周董说不喜欢mcu这个目录名咋办办呢?
+git clone https://github.com/pufferwu/mcu zhoudong 
+对,就这么干^_^.这样会克隆出一个叫zhoudong的目录.
+
